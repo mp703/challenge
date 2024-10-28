@@ -4,3 +4,6 @@
 - PostgreSQL (for database setup)
 
 ### Setup Instructions
+- `pip install -r requirements.txt`
+  
+
